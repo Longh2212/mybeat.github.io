@@ -1,0 +1,8 @@
+cd C:\xampp\htdocs\manguonmo\BTL\manguonmo
+cd C:\xampp\htdocs\MyBeatEX\manguonmo
+--upload--
+git add .
+git commit -m "something"
+git push
+--download--
+git pull
